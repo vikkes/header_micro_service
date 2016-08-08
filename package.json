@@ -1,0 +1,22 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "header ms",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikkes/header_micro_service.git"
+  },
+  "author": "vikkes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikkes/header_micro_service/issues"
+  },
+  "homepage": "https://github.com/vikkes/header_micro_service#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
